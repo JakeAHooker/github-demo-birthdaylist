@@ -8,3 +8,4 @@ Rent building
 Decorate building
 Make playlist
 Wrap presents
+Make chili
