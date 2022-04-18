@@ -2,3 +2,5 @@ Build bike
 Bake cake
 Invite friends and family
 Rent building
+Decorate building
+Make playlist
